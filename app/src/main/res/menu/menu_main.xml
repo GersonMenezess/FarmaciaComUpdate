@@ -1,0 +1,13 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_cadastro"
+        android:title="@string/cadastro"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_consulta"
+        android:title="@string/consulta"
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom" />
+</menu>
